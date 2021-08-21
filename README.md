@@ -130,7 +130,7 @@ $ python3 smsbot.py members.csv
 
 Add users to your group
 
-$ python3 groupadd.py members.csv
+$ python3 groupaddem.py members.csv
 
 
 
