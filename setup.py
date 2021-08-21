@@ -92,7 +92,7 @@ def update_tool():
 		os.system('rm *.py');time.sleep(1)
 		print(gr+'['+cy+'+'+gr+']'+cy+' getting latest files ...')
 		os.system("""
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/groupadd.py
+			curl -s -O https://github.com/emin4516/addem/blob/master/groupadd.py
 			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/scraper.py
 			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/setup.py
 			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/smsbot.py
