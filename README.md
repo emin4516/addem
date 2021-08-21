@@ -90,10 +90,10 @@ $ pkg install git -y
 $ pkg install -y git python
 
 
-$ git clone https://github.com/daredevilkinng/TeleAdder.git
+$ git clone https://github.com/emin4516/addem.git
 
 
-$ cd TeleAdder
+$ cd Addem
 
 
 $ ls
